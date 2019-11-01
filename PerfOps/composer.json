@@ -1,0 +1,21 @@
+{
+    "name": "paravibe/perfops",
+    "description": "API layer for Perfops",
+    "version": "1.0",
+    "type": "library",
+    "require": {
+        "php": "^7.2",
+        "ext-json": "*",
+        "guzzlehttp/guzzle": "^6.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Max Petyurenko",
+            "email": "paravibe@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "paravibe\\PerfOps\\": "src/" }
+    }
+}
