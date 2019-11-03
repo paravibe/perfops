@@ -2,7 +2,7 @@
 
 Provides simple wrapper for [PerfOps.net](https://perfops.net) API.
 
-[![Total Downloads](https://img.shields.io/packagist/dt/paravibe/perfops.svg?style=flat-square)](https://packagist.org/packages/paravibe/gotowebinar)
+[![Total Downloads](https://img.shields.io/packagist/dt/paravibe/perfops.svg?style=flat-square)](https://packagist.org/packages/paravibe/perfops)
 
 ### Examples
 
